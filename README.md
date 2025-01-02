@@ -70,9 +70,6 @@ Analyze the Netflix dataset to generate insights that will aid Netflix in determ
 - **Python Libraries**: pandas, numpy, matplotlib, seaborn
 - **Jupyter Notebook**: For interactive data analysis and visualization
 
-## Dataset Link
-[Download the Dataset](Dataset_link)
-
 ## Evaluation Criteria
 1. Defining Problem Statement and Analyzing Basic Metrics
 2. Non-Graphical and Graphical Data Exploration
